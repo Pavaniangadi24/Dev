@@ -28,3 +28,18 @@ Phase 4: Conflict Handling and Comparison
 4. git switch branch1
 5. git push origin branch1
 6. git diff main
+..................................................................................................................................................................................................................................................
+
+
+cd /c/Users/prama/OneDrive/Desktop/Devops_Lab1
+• git init
+• git remote add origin https://github.com/Praneetha-sh/DevopsL1.git
+• git add .
+• git commit -m "my new commit"
+• git config --global user.email "shpranee27@gmail.com"
+• git config --global user.username "Praneetha-sh"
+• git push origin master
+• git log
+• git status
+• git clone https://github.com/Praneetha-sh/DevopsL1.git
+• git reset
